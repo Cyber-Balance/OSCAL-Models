@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nist-Oscal-Models", "Nist-Oscal-Models.csproj", "{B2F139FD-42F2-462D-A091-4EA4E8D0CDB1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2F139FD-42F2-462D-A091-4EA4E8D0CDB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2F139FD-42F2-462D-A091-4EA4E8D0CDB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2F139FD-42F2-462D-A091-4EA4E8D0CDB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2F139FD-42F2-462D-A091-4EA4E8D0CDB1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1FB5680B-6CD1-44CF-8B0E-99D90B85D580}
+	EndGlobalSection
+EndGlobal
